@@ -19,7 +19,6 @@ This repository contains the codebase for a Node.js based responsive application
 1. **Cross browser compatible**
   * The website is compatible with the latest and latest-1 versions of popular browsers like Chrome, Firefox and Internet Explorer.
     Cross browser compatibility tests were conducted using [browserling](https://www.browserling.com/) which is popular online tool.
-
 2. **Improved performance**
   * _Optimized CSS delivery_
     * The CSS files have been minimized to decrease file size and increase CSS style application.
@@ -27,10 +26,8 @@ This repository contains the codebase for a Node.js based responsive application
     * Render blocking calls have been avoided as much as possible. This reduces the wait time to receive JavaScript functionality over a network
   * _Prioritize visible content_
     * Above-the-fold content has been prioritized so that the base content of the website has lower load time.
-
 3. **Responsive**
   * The website can be run across multiple platforms with varying screen sizes and resolutions.
-
 4. **Intuitive design**
   * The web application is easy to use and self-explanatory with stylized content and intuitive design.
 
